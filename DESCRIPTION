@@ -18,6 +18,7 @@ Config/roxygen2/version: 8.0.0
 Imports:
     dplyr,
     ggplot2,
+    plotly,
     rnaturalearth,
     shiny,
     shinyFiles,
