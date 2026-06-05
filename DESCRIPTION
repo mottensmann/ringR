@@ -20,5 +20,6 @@ Imports:
     ggplot2,
     rnaturalearth,
     shiny,
+    shinyFiles,
     sf
 
