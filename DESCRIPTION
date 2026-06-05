@@ -19,5 +19,6 @@ Imports:
     dplyr,
     ggplot2,
     rnaturalearth,
+    shiny,
     sf
 
