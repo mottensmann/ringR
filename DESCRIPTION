@@ -1,0 +1,23 @@
+Package: ringR
+Type: Package
+Title: Explore Ring databases using shiny apps
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Meinolf", "Ottensmann",
+      email = "meinolf.ottensmann@web.de",
+      role = c("aut", "cre")
+    )
+  )
+Description: In development.
+    Explore Ring databases using shiny apps.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.0.0
+Imports:
+    dplyr,
+    ggplot2,
+    rnaturalearth,
+    sf
+

@@ -1,0 +1,32 @@
+---
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# `ringR`
+___
+
+## Installation
+
+Install the development version of `ringR` with:
+
+```{r install, eval=FALSE}
+pak::pak("mottensmann/ringR")
+```
+
+
+## Run shiny app
+
+```{r example, eval=FALSE}
+library(ringR)
+ring_app()
+```
+
