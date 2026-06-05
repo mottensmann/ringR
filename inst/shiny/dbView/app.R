@@ -1,4 +1,4 @@
-IMRlibrary(shiny)
+library(shiny)
 library(bslib)
 library(shinyFiles)
 library(dplyr)
