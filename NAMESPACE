@@ -3,3 +3,6 @@
 export(plot_resights)
 export(read_gpkg)
 export(ring_app)
+export(ring_history)
+import(ggplot2)
+import(magrittr)

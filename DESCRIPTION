@@ -16,12 +16,16 @@ Encoding: UTF-8
 LazyData: true
 Config/roxygen2/version: 8.0.0
 Imports:
-    bsicons,
     dplyr,
+    egg,
     ggplot2,
-    plotly,
+    lubridate,
+    magrittr,
     rnaturalearth,
     shiny,
-    shinyFiles,
-    sf
-
+    sf,
+    stats
+Suggests:
+    bsicons,
+    plotly,
+    shinyFiles
